@@ -16,6 +16,10 @@ public class Week01Lab {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println(helloWorld());
     }
     
+    public static String helloWorld() {
+        return "Hello World.";
+    }
 }
